@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/_informatika/__Semester_5/pemrograman_mobile/Tugas/retrofit_bmkg/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.14322916666666666" />
+        <entry key="..\:/_informatika/__Semester_5/pemrograman_mobile/Tugas/retrofit_bmkg/app/src/main/res/drawable/bg_rainy.xml" value="0.14322916666666666" />
+        <entry key="..\:/_informatika/__Semester_5/pemrograman_mobile/Tugas/retrofit_bmkg/app/src/main/res/drawable/bg_rainy_background.xml" value="0.14322916666666666" />
+        <entry key="..\:/_informatika/__Semester_5/pemrograman_mobile/Tugas/retrofit_bmkg/app/src/main/res/drawable/cloudy_icon.xml" value="0.1359375" />
+        <entry key="..\:/_informatika/__Semester_5/pemrograman_mobile/Tugas/retrofit_bmkg/app/src/main/res/drawable/dialog_rounded_background.xml" value="0.14322916666666666" />
+        <entry key="..\:/_informatika/__Semester_5/pemrograman_mobile/Tugas/retrofit_bmkg/app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.14322916666666666" />
+        <entry key="..\:/_informatika/__Semester_5/pemrograman_mobile/Tugas/retrofit_bmkg/app/src/main/res/drawable/ic_baseline_delete_24.xml" value="0.1359375" />
+        <entry key="..\:/_informatika/__Semester_5/pemrograman_mobile/Tugas/retrofit_bmkg/app/src/main/res/drawable/ic_baseline_notifications_24.xml" value="0.1359375" />
+        <entry key="..\:/_informatika/__Semester_5/pemrograman_mobile/Tugas/retrofit_bmkg/app/src/main/res/drawable/ic_baseline_send_24.xml" value="0.14322916666666666" />
+        <entry key="..\:/_informatika/__Semester_5/pemrograman_mobile/Tugas/retrofit_bmkg/app/src/main/res/drawable/ic_humidity.xml" value="0.1359375" />
+        <entry key="..\:/_informatika/__Semester_5/pemrograman_mobile/Tugas/retrofit_bmkg/app/src/main/res/drawable/ic_precipitation.xml" value="0.1359375" />
+        <entry key="..\:/_informatika/__Semester_5/pemrograman_mobile/Tugas/retrofit_bmkg/app/src/main/res/drawable/ic_search.xml" value="0.14322916666666666" />
+        <entry key="..\:/_informatika/__Semester_5/pemrograman_mobile/Tugas/retrofit_bmkg/app/src/main/res/drawable/ic_wind.xml" value="0.1359375" />
+        <entry key="..\:/_informatika/__Semester_5/pemrograman_mobile/Tugas/retrofit_bmkg/app/src/main/res/drawable/pill_background.xml" value="0.1359375" />
+        <entry key="..\:/_informatika/__Semester_5/pemrograman_mobile/Tugas/retrofit_bmkg/app/src/main/res/drawable/pill_background_dark.xml" value="0.14322916666666666" />
+        <entry key="..\:/_informatika/__Semester_5/pemrograman_mobile/Tugas/retrofit_bmkg/app/src/main/res/drawable/pill_background_light.xml" value="0.14322916666666666" />
+        <entry key="..\:/_informatika/__Semester_5/pemrograman_mobile/Tugas/retrofit_bmkg/app/src/main/res/drawable/search_view_background.xml" value="0.14322916666666666" />
+        <entry key="..\:/_informatika/__Semester_5/pemrograman_mobile/Tugas/retrofit_bmkg/app/src/main/res/layout/activity_add_rule.xml" value="0.2" />
+        <entry key="..\:/_informatika/__Semester_5/pemrograman_mobile/Tugas/retrofit_bmkg/app/src/main/res/layout/activity_main.xml" value="0.152" />
+        <entry key="..\:/_informatika/__Semester_5/pemrograman_mobile/Tugas/retrofit_bmkg/app/src/main/res/layout/activity_notification_settings.xml" value="0.152" />
+        <entry key="..\:/_informatika/__Semester_5/pemrograman_mobile/Tugas/retrofit_bmkg/app/src/main/res/layout/activity_weather.xml" value="0.176" />
+        <entry key="..\:/_informatika/__Semester_5/pemrograman_mobile/Tugas/retrofit_bmkg/app/src/main/res/layout/dialog_info_layout.xml" value="0.264" />
+        <entry key="..\:/_informatika/__Semester_5/pemrograman_mobile/Tugas/retrofit_bmkg/app/src/main/res/layout/item_daily_forecast.xml" value="0.16576086956521738" />
+        <entry key="..\:/_informatika/__Semester_5/pemrograman_mobile/Tugas/retrofit_bmkg/app/src/main/res/layout/item_daily_forecast_vertical.xml" value="0.264" />
+        <entry key="..\:/_informatika/__Semester_5/pemrograman_mobile/Tugas/retrofit_bmkg/app/src/main/res/layout/item_hourly_forecast.xml" value="0.264" />
+        <entry key="..\:/_informatika/__Semester_5/pemrograman_mobile/Tugas/retrofit_bmkg/app/src/main/res/layout/item_location.xml" value="0.16576086956521738" />
+        <entry key="..\:/_informatika/__Semester_5/pemrograman_mobile/Tugas/retrofit_bmkg/app/src/main/res/layout/item_notification_rule.xml" value="0.264" />
+        <entry key="..\:/_informatika/__Semester_5/pemrograman_mobile/Tugas/retrofit_bmkg/app/src/main/res/layout/item_weather_detail.xml" value="0.152" />
+        <entry key="..\:/_informatika/__Semester_5/pemrograman_mobile/Tugas/retrofit_bmkg/app/src/main/res/layout/item_weather_hour.xml" value="0.2" />
+        <entry key="..\:/_informatika/__Semester_5/pemrograman_mobile/Tugas/retrofit_bmkg/app/src/main/res/menu/notification_menu.xml" value="0.152" />
+        <entry key="..\:/_informatika/__Semester_5/pemrograman_mobile/Tugas/retrofit_bmkg/app/src/main/res/mipmap-anydpi-v26/bg_rainy.xml" value="0.14322916666666666" />
+        <entry key="..\:/_informatika/__Semester_5/pemrograman_mobile/Tugas/retrofit_bmkg/app/src/main/res/mipmap-anydpi-v26/bg_rainy_round.xml" value="0.14322916666666666" />
+        <entry key="..\:/_informatika/__Semester_5/pemrograman_mobile/Tugas/retrofit_bmkg/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.14322916666666666" />
+        <entry key="..\:/_informatika/__Semester_5/pemrograman_mobile/Tugas/retrofit_bmkg/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.14322916666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,18 @@
+<!-- File: res/values/styles.xml -->
+<resources>
+    <!-- Style untuk Tombol Utama dengan Aksen Hijau -->
+    <style name="GreenButton" parent="Widget.MaterialComponents.Button">
+        <item name="android:backgroundTint">@color/green_primary_accent</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:paddingTop">12dp</item>
+        <item name="android:paddingBottom">12dp</item>
+    </style>
+
+    <!-- Style untuk Tombol Sekunder/Outline -->
+    <style name="GreenButton.Outlined" parent="Widget.MaterialComponents.Button.OutlinedButton">
+        <item name="android:textColor">@color/green_primary_accent</item>
+        <item name="strokeColor">@color/green_primary_accent</item>
+        <item name="android:paddingTop">12dp</item>
+        <item name="android:paddingBottom">12dp</item>
+    </style>
+</resources>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Palet Warna "Lush Green" yang sudah ada -->
+    <color name="green_primary_accent">#34A853</color>
+    <color name="green_dark_text">#1A2E25</color>
+    <color name="green_soft_text">#596A62</color>
+    <color name="green_soft_background">#F0F7F2</color>
+    <color name="green_card_background">#FFFFFF</color>
+    <color name="green_card_stroke">#DCE5E0</color>
+
+    <!-- WARNA BARU untuk efek Glassmorphism -->
+    <color name="glass_surface">#B3FFFFFF</color> <!-- Putih dengan transparansi 70% -->
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+
+    <!-- ============================================== -->
+    <!-- TAMBAHKAN WARNA-WARNA BARU INI -->
+    <!-- ============================================== -->
+
+    <!-- Untuk Teks & Ikon -->
+    <color name="text_on_light_bg">#FF000000</color> <!-- Hitam -->
+    <color name="text_on_dark_bg">#FFFFFFFF</color> <!-- Putih -->
+
+    <!-- Untuk Panel Kaca di Background TERANG (Sunny, Cloudy) -->
+    <color name="panel_bg_light">#99FFFFFF</color> <!-- Putih semi-transparan (60%) -->
+    <color name="panel_stroke_light">#B3FFFFFF</color> <!-- Putih semi-transparan (70%) untuk outline -->
+
+    <!-- Untuk Panel Kaca di Background GELAP (Rainy, Stormy) -->
+    <color name="panel_bg_dark">#80000000</color> <!-- Hitam semi-transparan (50%) -->
+    <color name="panel_stroke_dark">#99333333</color> <!-- Abu-abu gelap semi-transparan (60%) untuk outline -->
+
+</resources>

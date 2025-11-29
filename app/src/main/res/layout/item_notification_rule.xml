@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.card.MaterialCardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/cardRule"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginHorizontal="16dp"
+    android:layout_marginTop="8dp"
+    android:clickable="true"
+    android:focusable="true"
+    app:cardBackgroundColor="@color/green_card_background"
+    app:cardCornerRadius="16dp"
+    app:strokeColor="@color/green_card_stroke"
+    app:strokeWidth="1dp">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="16dp">
+
+        <!-- Teks (tetap sama) -->
+        <TextView
+            android:id="@+id/tvRuleLocation"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:text="Nama Lokasi"
+            android:textColor="@color/green_dark_text"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toStartOf="@+id/switchEnableRule"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <TextView
+            android:id="@+id/tvRuleCondition"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="4dp"
+            android:text="Kondisi: Hujan"
+            android:textColor="@color/green_soft_text"
+            app:layout_constraintEnd_toStartOf="@+id/switchEnableRule"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/tvRuleLocation" />
+
+        <TextView
+            android:id="@+id/tvRuleTime"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="4dp"
+            android:text="Pukul: 15:00"
+            android:textColor="@color/green_soft_text"
+            android:textStyle="italic"
+            android:visibility="gone"
+            app:layout_constraintEnd_toStartOf="@+id/switchEnableRule"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/tvRuleCondition" />
+
+        <!-- Tombol-tombol di kanan -->
+        <androidx.appcompat.widget.SwitchCompat
+            android:id="@+id/switchEnableRule"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="8dp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toStartOf="@+id/ivTestRule"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <!-- === TOMBOL TES NOTIFIKASI (BARU) === -->
+        <ImageView
+            android:id="@+id/ivTestRule"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:background="?attr/selectableItemBackgroundBorderless"
+            android:contentDescription="Tes Notifikasi"
+            android:padding="8dp"
+            android:src="@drawable/ic_baseline_send_24"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toStartOf="@+id/ivDeleteRule"
+            app:layout_constraintTop_toTopOf="parent"
+            app:tint="@color/green_soft_text" />
+
+        <ImageView
+            android:id="@+id/ivDeleteRule"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:background="?attr/selectableItemBackgroundBorderless"
+            android:contentDescription="Hapus Aturan"
+            android:padding="8dp"
+            android:src="@drawable/ic_baseline_delete_24"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:tint="@color/green_soft_text" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</com.google.android.material.card.MaterialCardView>

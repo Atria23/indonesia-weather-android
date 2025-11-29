@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+
+    <!-- Menggunakan warna surface dari tema aplikasi (mendukung Dark/Light Mode) -->
+    <solid android:color="?attr/colorSurface" />
+
+    <!-- Radius sudut yang membulat, sesuaikan nilainya jika perlu -->
+    <corners android:radius="20dp" />
+
+</shape>

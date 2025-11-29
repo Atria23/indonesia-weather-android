@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Retrofit" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Atur warna background utama dan status bar -->
+        <item name="android:windowBackground">@color/green_soft_background</item>
+        <item name="android:statusBarColor">@color/green_soft_background</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+</resources>
